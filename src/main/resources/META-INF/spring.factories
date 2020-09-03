@@ -1,2 +1,1 @@
-org.springframework.boot.autoconfigure.EnableAutoConfi
-guration=homework_19.Config
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=homework_19.Config
